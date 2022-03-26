@@ -110,6 +110,10 @@ html{
         margin-bottom: 10px;
         list-style: none;
     }
+    .nav> li>a{
+        font-size: 14px;
+        margin-bottom:5px;
+    }
 
     .bar-icon{
         display: flex;
